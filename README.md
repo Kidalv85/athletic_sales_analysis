@@ -31,7 +31,7 @@ Aanalyzing sales data to gain insights into which cities in the U.S. have sold t
 
 ***Determine the Week with the Most Women's Athletic Footwear Sales***  
 
-**Requirements**  
+*Requirements*  
 
 ***Combine and Clean the Data***  
 
