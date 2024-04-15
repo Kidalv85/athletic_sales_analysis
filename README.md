@@ -26,7 +26,7 @@ Output
 ![](pics/combined.png)  
 ***Determine which Region Sold the Most Products***  
 Output  
-![](<pics/region with most sales.png>)  
+![](<pics/region sold most products.png>)  
 ***Determine which Region had the Most Sales***  
 Output  
 ![](<pics/region with most sales.png>)  
