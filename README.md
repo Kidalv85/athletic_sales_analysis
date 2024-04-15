@@ -11,13 +11,13 @@ Aanalyzing sales data to gain insights into which cities in the U.S. have sold t
 * Combine the two DataFrames by the rows using an inner join, and reset the index.  
 * After combining the DataFrames, do the following:  
 
-** Check if there are any null values.  
+- Check if there are any null values.  
 
-** Check each column’s data type.
+- Check each column’s data type.
 
-** Convert the "invoice_date" column to a datetime data type.
+- Convert the "invoice_date" column to a datetime data type.
 
-** Confirm that the data type has been changed. 
+- Confirm that the data type has been changed. 
 
 ***Determine which Region Sold the Most Products***  
 
@@ -33,15 +33,15 @@ Aanalyzing sales data to gain insights into which cities in the U.S. have sold t
 
 **Requirements**  
 
-***Combine and Clean the Data *** 
+***Combine and Clean the Data ***  
 
 ***Determine which Region Sold the Most Products***  
 
 ***Determine which Region had the Most Sales***  
 
-***Determine which Retailer had the Most Sales *** 
+***Determine which Retailer had the Most Sales ***  
 
-***Determine which Retailer Sold the Most Women's Athletic Footwear *** 
+***Determine which Retailer Sold the Most Women's Athletic Footwear ***  
 
 ***Determine the Day with the Most Women's Athletic Footwear Sales***  
 
