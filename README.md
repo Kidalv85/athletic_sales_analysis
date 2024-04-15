@@ -18,34 +18,29 @@ Aanalyzing sales data to gain insights into which cities in the U.S. have sold t
 - Convert the "invoice_date" column to a datetime data type.
 
 - Confirm that the data type has been changed. 
-
-***Determine which Region Sold the Most Products***  
-
-***Determine which Region had the Most Sales***  
-
-***Determine which Retailer had the Most Sales***   
-
-***Determine which Retailer Sold the Most Women's Athletic Footwear***  
-
-***Determine the Day with the Most Women's Athletic Footwear Sales***  
-
-***Determine the Week with the Most Women's Athletic Footwear Sales***  
-
+ 
 *Requirements*  
 
 ***Combine and Clean the Data***  
+Output  
 ![](pics/combined.png)  
 ***Determine which Region Sold the Most Products***  
+Output  
 ![](<pics/region with most sales.png>)  
 ***Determine which Region had the Most Sales***  
+Output  
 ![](<pics/region with most sales.png>)  
 ***Determine which Retailer had the Most Sales***  
+Output  
 ![](<pics/retailer with most sales.png>)  
 ***Determine which Retailer Sold the Most Women's Athletic Footwear***  
+Output  
 ![](<pics/pivot womens sales.png>)  
 ***Determine the Day with the Most Women's Athletic Footwear Sales***  
+Output  
 ![](<pics/sales by day.png>)  
 ***Determine the Week with the Most Women's Athletic Footwear Sales***  
+Output  
 ![](<pics/sales by week.png>)  
 
 
