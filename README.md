@@ -34,18 +34,19 @@ Aanalyzing sales data to gain insights into which cities in the U.S. have sold t
 *Requirements*  
 
 ***Combine and Clean the Data***  
-
+![](pics/combined.png)  
 ***Determine which Region Sold the Most Products***  
-
+![](<pics/region with most sales.png>)  
 ***Determine which Region had the Most Sales***  
-
+![](<pics/region with most sales.png>)  
 ***Determine which Retailer had the Most Sales***  
-
+![](<pics/retailer with most sales.png>)  
 ***Determine which Retailer Sold the Most Women's Athletic Footwear***  
-
+![](<pics/pivot womens sales.png>)  
 ***Determine the Day with the Most Women's Athletic Footwear Sales***  
-
+![](<pics/sales by day.png>)  
 ***Determine the Week with the Most Women's Athletic Footwear Sales***  
+![](<pics/sales by week.png>)  
 
 
 
