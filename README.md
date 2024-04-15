@@ -33,15 +33,15 @@ Aanalyzing sales data to gain insights into which cities in the U.S. have sold t
 
 **Requirements**  
 
-***Combine and Clean the Data ***  
+***Combine and Clean the Data***  
 
 ***Determine which Region Sold the Most Products***  
 
 ***Determine which Region had the Most Sales***  
 
-***Determine which Retailer had the Most Sales ***  
+***Determine which Retailer had the Most Sales***  
 
-***Determine which Retailer Sold the Most Women's Athletic Footwear ***  
+***Determine which Retailer Sold the Most Women's Athletic Footwear***  
 
 ***Determine the Day with the Most Women's Athletic Footwear Sales***  
 
